@@ -44,14 +44,16 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 <a href = "https://github.com/Akash-K11/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Akash%20Khandelwal.md">
 <img src = "https://github.com/Akash-K11/Akash-K11.github.io/blob/master/img/Profile%20Photo.jpg" width="90" height="90">
 </a>
-
+<a href = "https://github.com/VaibhavMathur-2003/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/VaibhavMathur.md">
+<img src = "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870" width = "90" height = "90">
+</a>
 
 
 
 
 <!--
 <a href = "">
-<img src = "" width = 80 height = 80>
+<img src = "" width = 90 height = 90>
 </a>
 -->
  
@@ -64,8 +66,6 @@ Refference Code:
 [![< Your Name >](< Image Address >?size=90)](< Your-Name.md file Address >)
 
 -->
-
-[![Vaibhav Mathur](https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80?size=70)](https://github.com/VaibhavMathur-2003/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/VaibhavMathur.md)
 
 
 
