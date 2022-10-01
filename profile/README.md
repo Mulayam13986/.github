@@ -32,7 +32,7 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 [![Hetarth Bhatt](https://avatars.githubusercontent.com/u/110833420?size=80)](https://github.com/Hetarth-me/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Hetarth.md)
 [![< Ananya Alekar >](https://avatars.githubusercontent.com/u/99219597?size=80)](https://github.com/AnyaAlekar/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/AnanyaAlekar.md)
 [![Tiya Gupta](https://avatars.githubusercontent.com/u/98590820?size=80)](https://github.com/Tiagupt03/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Tiya-Gupta.md)
-[![< Sarthak Choudhary>](https://avatars.githubusercontent.com/u/102959557?size=90)](https://github.com/Cenult/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/SarthakChoudhary.md)
+[![< Sarthak Choudhary>](https://avatars.githubusercontent.com/u/102959557?size=80)](https://github.com/Cenult/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/SarthakChoudhary.md)
 
 
 <!--
