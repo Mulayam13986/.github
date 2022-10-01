@@ -37,7 +37,7 @@ Refference Code:
 
 -->
 
-Vaibhav Mathur (https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80?size=70)(https://github.com/VaibhavMathur-2003/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/VaibhavMathur.md)
+[![Vaibhav Mathur](https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80?size=70)](https://github.com/VaibhavMathur-2003/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/VaibhavMathur.md)
 
 
 
