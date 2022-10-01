@@ -31,6 +31,10 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 
 
 
+[![< Srajan Chourasia >](https://avatars.githubusercontent.com/u/91196806?size=90)](https://github.com/srajan-kiyotaka/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Srajan.md)
+
+[![Hetarth Bhatt](https://avatars.githubusercontent.com/u/110833420?size=90)](https://github.com/Hetarth-me/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Hetarth.md)
+
 <!--
 Add your Image Code Here
 
