@@ -28,14 +28,14 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 </a>
 
 
-<!--
+
 Add your Image Code Here
 
 Refference Code:
 
-[![< Your Name >](< Image Address >?size=90)](< Your-Name.md file Address >)
+[![< Varun Singh >]( https://github.com/Varun28coder/MyPersonalResource/blob/main/IMG_20211026_191941_384.jpg ?size=90)](< VarunSingh.md file Address >)
 
--->
+
 
 
 
