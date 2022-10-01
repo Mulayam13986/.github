@@ -27,13 +27,9 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 <img align="right" width="560" height="750" src = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Resource/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
 </a>
 
-[![< Srajan Chourasia >](https://avatars.githubusercontent.com/u/91196806?size=80)](https://github.com/srajan-kiyotaka/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Srajan.md)
-[![Hetarth Bhatt](https://avatars.githubusercontent.com/u/110833420?size=80)](https://github.com/Hetarth-me/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Hetarth.md)
-
-
-
-
-[![< Ananya Alekar >](https://avatars.githubusercontent.com/u/99219597?s=400&u=c9a83c27983fb797889012d65d3c29d117d24ff9&v=4?size=1)](https://github.com/AnyaAlekar/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/AnanyaAlekar.md)
+[![< Srajan Chourasia >](https://avatars.githubusercontent.com/u/91196806?size=90)](https://github.com/srajan-kiyotaka/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Srajan.md)
+[![Hetarth Bhatt](https://avatars.githubusercontent.com/u/110833420?size=90)](https://github.com/Hetarth-me/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Hetarth.md)
+[![< Ananya Alekar >](https://avatars.githubusercontent.com/u/99219597?size=90)](https://github.com/AnyaAlekar/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/AnanyaAlekar.md)
 
 
 
@@ -46,27 +42,6 @@ Refference Code:
 [![< Your Name >](< Image Address >?size=90)](< Your-Name.md file Address >)
 
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
