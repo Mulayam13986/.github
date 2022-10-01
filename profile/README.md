@@ -28,6 +28,9 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 </a>
 
 
+
+[![Hetarth Bhatt](https://github.com/Hetarth-me/Myfirstproject/blob/main/Mypic.jpg?size=45)](https://github.com/Hetarth-me/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Hetarth.md)
+
 <!--
 Add your Image Code Here
 
