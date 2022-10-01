@@ -34,6 +34,8 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 
 
 
+[![Tiya Gupta](https://avatars.githubusercontent.com/u/98590820?s=400&u=6036318476a070502160ab2b6f756a08aa9c040b&v=4?size=90)](https://github.com/Tiagupt03/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Tiya-Gupta.md)
+
 <!--
 Add your Image Code Here
 
