@@ -28,35 +28,28 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 </a>
 
 
+[![< Srajan Chourasia >](https://avatars.githubusercontent.com/u/91196806?size=80)](https://github.com/srajan-kiyotaka/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Srajan.md)
+[![Hetarth Bhatt](https://avatars.githubusercontent.com/u/110833420?size=80)](https://github.com/Hetarth-me/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Hetarth.md)
+[![< Ananya Alekar >](https://avatars.githubusercontent.com/u/99219597?size=80)](https://github.com/AnyaAlekar/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/AnanyaAlekar.md)
+[![Tiya Gupta](https://avatars.githubusercontent.com/u/98590820?size=80)](https://github.com/Tiagupt03/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Tiya-Gupta.md)
+[![< Sarthak Choudhary>](https://avatars.githubusercontent.com/u/102959557?size=80)](https://github.com/Cenult/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/SarthakChoudhary.md)
+[![ Varun Singh ]( https://github.com/Varun28coder/MyPersonalResource/blob/main/IMG_20211026_191941_384.jpg?size=80)](https://github.com/Varun28coder/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/VarunSingh.md)
+[![<Pranav Tambe >](https://avatars.githubusercontent.com/u/114793717?size=80)](https://github.com/pranavTambePT/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/PranavTambe.md)
 
+
+
+
+ 
+
+<!--
 Add your Image Code Here
 
 Refference Code:
 
-[![ Varun Singh ]( https://github.com/Varun28coder/MyPersonalResource/blob/main/IMG_20211026_191941_384.jpg?size=90)](https://github.com/Varun28coder/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/VarunSingh.md)
+[![< Your Name >](< Image Address >?size=90)](< Your-Name.md file Address >)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-->
+[![Akash Khandelwal](https://github.com/Akash-K11/Akash-K11.github.io/blob/master/img/Profile%20Photo.jpg?raw=true?size=70)](https://github.com/Akash-K11/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Akash%20Khandelwal.md)
 
 
 
