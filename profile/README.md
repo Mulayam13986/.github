@@ -32,7 +32,7 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 
 
 
-[![<Pranav Tambe >](https://github.com/pranavTambePT/Interstellar/blob/main/black_hole.jpg ?size=90)](< PranavTambe.md https://github.com/pranavTambePT/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/PranavTambe.md >)
+[![<Pranav Tambe >](https://avatars.githubusercontent.com/u/114793717?size=90)](https://github.com/pranavTambePT/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/PranavTambe.md)
 
  
 
