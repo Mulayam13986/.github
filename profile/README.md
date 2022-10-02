@@ -24,9 +24,39 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 ## Fire Fighters of GitHub !
 
 <a href = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session">
-<img align="right" width="560" height="750" src = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Resource/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
+<img align="right" width="420" height="580" src = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Resource/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
 </a>
 
+
+
+[![< Srajan Chourasia >](https://avatars.githubusercontent.com/u/91196806?size=90)](https://github.com/srajan-kiyotaka/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Srajan.md)
+[![Hetarth Bhatt](https://avatars.githubusercontent.com/u/110833420?size=90)](https://github.com/Hetarth-me/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Hetarth.md)
+[![< Ananya Alekar >](https://avatars.githubusercontent.com/u/99219597?size=90)](https://github.com/AnyaAlekar/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/AnanyaAlekar.md)
+[![Tiya Gupta](https://avatars.githubusercontent.com/u/98590820?size=90)](https://github.com/Tiagupt03/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Tiya-Gupta.md)
+[![< Sarthak Choudhary>](https://avatars.githubusercontent.com/u/102959557?size=90)](https://github.com/Cenult/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/SarthakChoudhary.md)
+[![<Pranav Tambe >](https://avatars.githubusercontent.com/u/114793717?size=90)](https://github.com/pranavTambePT/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/PranavTambe.md)
+<a href = "https://github.com/Abhay-Tiv007/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Abhay.md">
+<img src = "https://github.com/Abhay-Tiv007/MyPersonalResources/blob/main/AlisaBoskonvichS.png" width="90" height="90">
+</a>
+<a href = "https://github.com/Varun28coder/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/VarunSingh.md">
+<img src = "https://github.com/Varun28coder/MyPersonalResource/blob/main/IMG_20211026_191941_384.jpg" width="90" height="90">
+</a>
+<a href = "https://github.com/Akash-K11/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Akash%20Khandelwal.md">
+<img src = "https://github.com/Akash-K11/Akash-K11.github.io/blob/master/img/Profile%20Photo.jpg" width="90" height="90">
+</a>
+<a href = "https://github.com/VaibhavMathur-2003/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/VaibhavMathur.md">
+<img src = "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870" width = "90" height = "90">
+</a>
+
+
+
+
+<!--
+<a href = "">
+<img src = "" width = 90 height = 90>
+</a>
+-->
+ 
 
 <!--
 Add your Image Code Here
@@ -37,29 +67,6 @@ Refference Code:
 
 -->
 [![Nidamanuri Sai Adarsh](https://github.com/Adarsh-N123/my-personal-resource-repo/blob/main/Nidamanuri_Adarsh.jpg?size=10)](https://github.com/Adarsh-N123/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Nidamanuri-Sai-Adarsh.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
