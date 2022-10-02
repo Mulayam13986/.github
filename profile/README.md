@@ -36,7 +36,7 @@ Refference Code:
 [![< Your Name >](< Image Address >?size=90)](< Your-Name.md file Address >)
 
 -->
-[![Nidamanuri Sai Adarsh](https://github.com/Adarsh-N123/my-personal-resource-repo/blob/main/Nidamanuri_Adarsh.jpg?size=30)](https://github.com/Adarsh-N123/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Nidamanuri-Sai-Adarsh.md)
+[![Nidamanuri Sai Adarsh](https://github.com/Adarsh-N123/my-personal-resource-repo/blob/main/Nidamanuri_Adarsh.jpg?size=10)](https://github.com/Adarsh-N123/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Nidamanuri-Sai-Adarsh.md)
 
 
 
