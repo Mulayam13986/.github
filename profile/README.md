@@ -47,6 +47,9 @@ GDSC-IITGoa projects adopt the [Contributor Covenant Code of Conduct](https://ww
 <a href = "https://github.com/VaibhavMathur-2003/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/VaibhavMathur.md">
 <img src = "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870" width = "90" height = "90">
 </a>
+<a href="https://github.com/Adarsh-N123/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Nidamanuri-Sai-Adarsh.md">
+<img src="https://github.com/Adarsh-N123/my-personal-resource-repo/blob/main/Nidamanuri_Adarsh.jpg" width="90" height="90">
+</a>
 [![<Mulayam>](https://avatars.githubusercontent.com/u/99270619?size=90)](https://github.com/Mulayam13986/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Mulayam.md)
 
 
@@ -66,12 +69,6 @@ Refference Code:
 [![< Your Name >](< Image Address >?size=90)](< Your-Name.md file Address >)
 
 -->
-
-<a href="https://github.com/Adarsh-N123/Git-Github-Hacktoberfest-Session/blob/main/Fire%20Fighters%20of%20GitHub/Nidamanuri-Sai-Adarsh.md">
-<img src="https://github.com/Adarsh-N123/my-personal-resource-repo/blob/main/Nidamanuri_Adarsh.jpg" width="90" height="90">
-</a>
-
-
 
 
 <!--
